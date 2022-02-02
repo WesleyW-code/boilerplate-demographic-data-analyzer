@@ -1,3 +1,9 @@
+## NOTE
+
+This was a project I did on freeCodeCamp. The below is the description for the task. You can find my solution in `demographic_data_analyzer`.
+
+This was my first project working properly with subsetting dataframes and extracting various different pieces of information from them. I found this very valuable and look forward to learning more about this and experimenting further in the future.
+
 ### Assignment
 
 # Demographic Data Analyzer
