@@ -1,12 +1,12 @@
-## NOTE
+# NOTE
 
 This was a project I did on freeCodeCamp. The below is the description for the task. You can find my solution in `demographic_data_analyzer`.
 
 This was my first project working properly with subsetting dataframes and extracting various different pieces of information from them. I found this very valuable and look forward to learning more about this and experimenting further in the future.
 
-### Assignment
+## Assignment
 
-# Demographic Data Analyzer
+### Demographic Data Analyzer
 
 In this challenge you must analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database. Here is a sample of what the data looks like:
 
